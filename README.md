@@ -1,14 +1,14 @@
 # OKX Referral Code: 1888802 (Sign-Up Bonus + Trading Fee Discount)
 
 <p align="center">
-  <a href="https://www.okx.com/join/1888802"><img src="https://img.shields.io/badge/OKX%20Referral%20Code-1888802-000000?style=for-the-badge&logo=okx&logoColor=white" alt="OKX Referral Code 1888802"></a>
+  <a href="https://my.okx.com/join/1888802"><img src="https://img.shields.io/badge/OKX%20Referral%20Code-1888802-000000?style=for-the-badge&logo=okx&logoColor=white" alt="OKX Referral Code 1888802"></a>
   <img src="https://img.shields.io/badge/Fee%20Discount-Yes-22c55e?style=for-the-badge" alt="Fee discount">
   <img src="https://img.shields.io/badge/Updated-2026-3b82f6?style=for-the-badge" alt="Updated 2026">
 </p>
 
 <p align="center">
   <b>OKX referral code: <code>1888802</code></b><br>
-  Register here: <a href="https://www.okx.com/join/1888802">https://www.okx.com/join/1888802</a>
+  Register here: <a href="https://my.okx.com/join/1888802">https://my.okx.com/join/1888802</a>
 </p>
 
 ---
@@ -18,7 +18,7 @@ The **OKX referral code `1888802`** gives new users a discount on trading fees a
 | | |
 |---|---|
 | **Referral code** | `1888802` |
-| **Sign-up link** | [okx.com/join/1888802](https://www.okx.com/join/1888802) |
+| **Sign-up link** | [my.okx.com/join/1888802](https://my.okx.com/join/1888802) |
 | **Who can use it** | New OKX users, at registration |
 | **Main benefits** | Trading fee discount, new-user rewards (Mystery Box, task rewards), access to promotions |
 | **Cost** | Free |
@@ -62,7 +62,7 @@ Using the code doesn't cost anything and it doesn't change your account in any o
 
 ## How to use the OKX referral code (website)
 
-1. Open the sign-up page: **[https://www.okx.com/join/1888802](https://www.okx.com/join/1888802)**. The code should already be filled in.
+1. Open the sign-up page: **[https://my.okx.com/join/1888802](https://my.okx.com/join/1888802)**. The code should already be filled in.
 2. Choose your country or region and enter your email address or phone number.
 3. Check the **"Referral code (optional)"** field. If it's empty, type **`1888802`** manually.
 4. Make sure the fee discount message appears under the field. That's your confirmation the code was accepted.
@@ -79,7 +79,7 @@ Using the code doesn't cost anything and it doesn't change your account in any o
 4. Tap **"Referral code (optional)"** and type **`1888802`**.
 5. Confirm the discount is shown, then continue with verification and KYC as above.
 
-> **Tip:** if you open [okx.com/join/1888802](https://www.okx.com/join/1888802) on your phone and then install the app, the code may not carry over. Always double-check the referral field before you confirm registration.
+> **Tip:** if you open [my.okx.com/join/1888802](https://my.okx.com/join/1888802) on your phone and then install the app, the code may not carry over. Always double-check the referral field before you confirm registration.
 
 ## Already registered without a code?
 
@@ -88,7 +88,7 @@ OKX doesn't let you add a referral code to an existing account. If you signed up
 1. **Move your assets out.** Withdraw your crypto to an external wallet or another exchange, and close any open positions and orders.
 2. **Close the old account.** Go to *Profile → Security → Delete account* (the exact menu name can change between app versions) and follow the steps.
 3. **Wait until the deletion is finished.** OKX may need some time before your email and ID can be used again.
-4. **Register again** using [okx.com/join/1888802](https://www.okx.com/join/1888802) and code `1888802`, then complete KYC.
+4. **Register again** using [my.okx.com/join/1888802](https://my.okx.com/join/1888802) and code `1888802`, then complete KYC.
 
 Whether this is worth it depends on how much you trade. If you trade futures every week, the fee savings add up quickly. If you buy crypto twice a year, probably not.
 
@@ -145,7 +145,7 @@ OKX is one of the largest cryptocurrency exchanges in the world by trading volum
 ## FAQ
 
 **What is the OKX referral code?**
-The OKX referral code is `1888802`. Use it when you register at [okx.com/join/1888802](https://www.okx.com/join/1888802) to get a trading fee discount and the new-user bonus.
+The OKX referral code is `1888802`. Use it when you register at [my.okx.com/join/1888802](https://my.okx.com/join/1888802) to get a trading fee discount and the new-user bonus.
 
 **Is the OKX referral code free to use?**
 Yes. It costs nothing and doesn't affect your account apart from lowering your fees.
@@ -171,7 +171,7 @@ OKX publishes regular Proof of Reserves, keeps most funds in cold storage and su
 ---
 
 <p align="center">
-  <a href="https://www.okx.com/join/1888802"><b>👉 Sign up on OKX with referral code 1888802</b></a>
+  <a href="https://my.okx.com/join/1888802"><b>👉 Sign up on OKX with referral code 1888802</b></a>
 </p>
 
 **Disclaimer:** This repository contains a referral link. If you sign up with it, the author may receive a commission from OKX at no extra cost to you. Nothing here is financial advice. Trading cryptocurrencies, especially with leverage, carries a high risk of loss. OKX services are not available in every jurisdiction; check the rules that apply in your country before registering. This repository is not affiliated with or endorsed by OKX.
