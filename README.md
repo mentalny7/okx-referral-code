@@ -168,6 +168,12 @@ Yes. The kickback applies to spot, margin, futures and perpetual swap trading fe
 **Is OKX safe?**
 OKX publishes regular Proof of Reserves, keeps most funds in cold storage and supports 2FA and withdrawal whitelists. Like with any exchange, turn on every security feature and don't keep more on the exchange than you need for trading.
 
+## More OKX guides
+
+- [OKX Promo Code: what it unlocks and how to enter it](https://mentalny7.github.io/okx-promo-code/)
+- [OKX Sign-Up Bonus: 30-day plan to claim every reward](https://mentalny7.github.io/okx-sign-up-bonus/)
+- [OKX Fee Discount: fees explained + savings calculator](https://mentalny7.github.io/okx-fee-discount/)
+
 ---
 
 <p align="center">
